@@ -6,4 +6,11 @@ function a() {
     Array.prototype.forEach.call(arguments, function (el) { console.log(el); });
 }
 
+
+
+
+
+
+
+
 a(21, 1, 2, 3, 3, 5, 6, 6, 7, 8, 98, 6, 3)
